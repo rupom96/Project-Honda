@@ -1,0 +1,45 @@
+.honda-bg-header{
+    background-color: #264653;
+}
+.button-bg{
+    color: white;
+    background-color: 
+    #E76F51;
+    font-size: 16px;
+}
+.button-bg:hover{
+    color: white;
+    background-color: #bb563d
+}
+.grs-img{
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+  
+}
+.ftr-bike img{
+    width: 288px;
+}
+.card img{
+    width: 149px;
+    height: 149px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+
+}
+.fas{
+    color: #E77C40;
+    padding-right: 7px;
+}
+.far{
+    color: #E77C40;
+}
+.fq-cls img{
+ width: 433px;
+}
+.acc-font{
+    font-family: 'Inter', sans-serif;
+}
+.acc-body{
+    color: #7E848C;
+    ;
+}
